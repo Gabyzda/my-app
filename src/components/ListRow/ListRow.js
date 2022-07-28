@@ -6,7 +6,7 @@ function ListRow(props) {
     return (
         <li>
             <label>{props.fruta}</label>
-            <img src={props.imagem}/>
+            <img src={props.imagen} width={200}/>
             </li>
     )
 }

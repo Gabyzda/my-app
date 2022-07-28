@@ -9,7 +9,7 @@ function List(props) {
         <ul>
             <ListRow
              fruta={props.fruta}
-             imagem={props.imagem} />
+             imagen={props.imagen} />
         </ul>
     )
 }
